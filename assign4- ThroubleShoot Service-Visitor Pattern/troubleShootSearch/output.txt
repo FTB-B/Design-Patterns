@@ -1,0 +1,41 @@
+user input - problem detecting
+Exact Match
+----------------------
+1- If Debian has a problem detecting the drive, it could be that the portable drive is not receiving enough power.
+
+Semantic Match
+----------------------
+No Semantic match 
+
+Naive Stemming Match
+----------------------
+WordCout = 1
+Line Numbers = 1,
+
+user input - reinstall software
+Exact Match
+----------------------
+No exact match 
+
+Semantic Match
+----------------------
+No Semantic match 
+
+Naive Stemming Match
+----------------------
+WordCout = 2
+Line Numbers = 2,4,
+
+user input - compatible processor
+Exact Match
+----------------------
+No exact match 
+
+Semantic Match
+----------------------
+1- All products from AMD have a compatible CPU as far as dSeaGate is concerned.
+
+Naive Stemming Match
+----------------------
+No Naive Stemming Match
+
