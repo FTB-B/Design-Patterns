@@ -8,10 +8,7 @@ import java.util.List;
 import courseplanner.planner.Student;
 
 
-/**
- * @author John Doe
- *
- */
+
 public class Driver {
 
 
